@@ -26,6 +26,7 @@ namespace iSmartOASPro
 
         public void showMyself()
         {
+	    Console.WriteLine("TEST");
             return;
         }
 
