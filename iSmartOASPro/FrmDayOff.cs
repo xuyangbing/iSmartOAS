@@ -24,16 +24,9 @@ namespace iSmartOASPro
             InitializeComponent();
         }
 
-        public void showMyself()
-        {
-	    Console.WriteLine("TEST");
-            return;
-        }
-
         private void FrmDayOff_Load(object sender, EventArgs e)
         {
             FrmInitialization();
-	    return;
         }
 
         public void FrmInitialization()
