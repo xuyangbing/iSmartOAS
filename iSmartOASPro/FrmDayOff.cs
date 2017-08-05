@@ -24,18 +24,12 @@ namespace iSmartOASPro
             InitializeComponent();
         }
 
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
         public void showMyself()
         {
 	    Console.WriteLine("TEST");
             return;
         }
 
->>>>>>> 1d5eca4792e59992132eecd208c29d0138330be6
->>>>>>> f0f2154d66b091a7346de92e100e608a13ea2ce7
         private void FrmDayOff_Load(object sender, EventArgs e)
         {
             FrmInitialization();
