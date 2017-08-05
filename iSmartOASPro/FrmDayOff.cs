@@ -14,6 +14,7 @@ namespace iSmartOASPro
     //命名空间
     public partial class FrmDayOff : Form
     {
+	//xxxxxxx
         internal DayOffStateService objDayOffStateService = new DayOffStateService();
         
         public FrmDayOff()
