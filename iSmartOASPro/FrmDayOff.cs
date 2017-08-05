@@ -33,7 +33,6 @@ namespace iSmartOASPro
         private void FrmDayOff_Load(object sender, EventArgs e)
         {
             FrmInitialization();
-	    return;
         }
 
         public void FrmInitialization()
