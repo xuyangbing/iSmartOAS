@@ -11,7 +11,9 @@ using Models;
 
 namespace iSmartOASPro
 {   
-    //命名空间
+    /// <summary>
+    /// 请假流程管理
+    /// </summary>
     public partial class FrmDayOff : Form
     {
         internal DayOffStateService objDayOffStateService = new DayOffStateService();
