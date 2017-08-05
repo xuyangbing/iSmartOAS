@@ -11,9 +11,6 @@ using Models;
 
 namespace iSmartOASPro
 {   
-    /// <summary>
-    /// 请假流程管理
-    /// </summary>
     public partial class FrmDayOff : Form
     {
 	//xxxxxxx
