@@ -16,6 +16,7 @@ namespace iSmartOASPro
     /// </summary>
     public partial class FrmDayOff : Form
     {
+	//xxxxxxx
         internal DayOffStateService objDayOffStateService = new DayOffStateService();
         
         public FrmDayOff()
@@ -31,6 +32,7 @@ namespace iSmartOASPro
         private void FrmDayOff_Load(object sender, EventArgs e)
         {
             FrmInitialization();
+	    return;
         }
 
         public void FrmInitialization()
