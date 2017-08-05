@@ -23,6 +23,11 @@ namespace iSmartOASPro
             InitializeComponent();
         }
 
+        public void showMyself()
+        {
+            return;
+        }
+
         private void FrmDayOff_Load(object sender, EventArgs e)
         {
             FrmInitialization();
