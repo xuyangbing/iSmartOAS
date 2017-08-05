@@ -1,0 +1,7 @@
+E:\Works\Code\iSmartOAS\DAL\bin\Debug\DAL.dll
+E:\Works\Code\iSmartOAS\DAL\bin\Debug\DAL.pdb
+E:\Works\Code\iSmartOAS\DAL\bin\Debug\Models.dll
+E:\Works\Code\iSmartOAS\DAL\bin\Debug\Models.pdb
+E:\Works\Code\iSmartOAS\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\Works\Code\iSmartOAS\DAL\obj\Debug\DAL.dll
+E:\Works\Code\iSmartOAS\DAL\obj\Debug\DAL.pdb

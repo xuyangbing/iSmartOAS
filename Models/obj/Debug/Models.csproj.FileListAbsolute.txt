@@ -1,0 +1,5 @@
+E:\Works\Code\iSmartOAS\Models\bin\Debug\Models.dll
+E:\Works\Code\iSmartOAS\Models\bin\Debug\Models.pdb
+E:\Works\Code\iSmartOAS\Models\obj\Debug\Models.dll
+E:\Works\Code\iSmartOAS\Models\obj\Debug\Models.pdb
+E:\Works\Code\iSmartOAS\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
